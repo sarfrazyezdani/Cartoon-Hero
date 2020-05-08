@@ -1,0 +1,27 @@
+body{
+background-color: lightgrey;
+}
+h1{
+font-size: 30px;
+color: teal;
+font-name: Helvetica;
+}
+h2{
+font-size: 30px;
+color: red;
+font-name: Helvetica;
+}
+h2{
+font-size: 30px;
+color: green;
+font-name: Helvetica;
+}
+.big{
+font-size: 80px;
+}
+.uppercase{
+text-transform:uppercase;
+}
+h1 span{
+color: purple;
+}
